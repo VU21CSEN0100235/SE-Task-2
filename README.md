@@ -8,4 +8,6 @@ Y-axis: The y-axis is labeled “Temperature” and ranges from 0.0 to 2.0.
 
 Line Graph: A single blue line on the graph represents the temperature’s linear decay over time. It starts at a value of 2.0 and decreases to 0.0 over the course of 10 hours.
 
-![image](https://github.com/VU21CSEN0100235/SE-Task-2/assets/104952001/f50a8b37-5555-4fb1-8fba-91910f845963)
+
+![image](https://github.com/VU21CSEN0100235/SE-Task-2/assets/104952001/051abc80-6fb9-4745-b60c-cac1230ca233)
+
