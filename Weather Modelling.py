@@ -2,10 +2,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Constants
-TIME_STEPS = 10
+TIME_STEPS = 11
 DELTA_T = 1 # Time step in hours
-SLOPE = -0.12  # Slope for temperature decay
-INITIAL_TEMPERATURE = 1.0  # Initial temperature
+SLOPE = -0.5  # Slope for temperature decay
+INITIAL_TEMPERATURE = 2.0  # Initial temperature
 
 # Function to update temperature using a linear equation
 def update_temperature(temperature, slope, delta_t):
